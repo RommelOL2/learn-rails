@@ -73,6 +73,9 @@ Rails.application.configure do
 
   # Use default logging formatter so that PID and timestamp are not suppressed.
   config.log_formatter = ::Logger::Formatter.new
+  
+  #Whitelist my IP in the web console settings
+  config.web_console.whitelisted_ips = '96.248.38.49'
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
