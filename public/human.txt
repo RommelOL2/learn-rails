@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Rommel Ortiz-Luis -- @rortizluis
+    
+# THANKS
+
+    Mickael Daniel -- @mklabs
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Ruby_on_Rails, Foundation, JQuery
+    Gulp, HTML5 Boilerplate, Normalize.css
+
+    Source: https://github.com/RommelOL2/learn-rails.git/
